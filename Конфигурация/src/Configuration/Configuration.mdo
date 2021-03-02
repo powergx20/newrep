@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5b0fce86-1ac1-4d70-a4ad-0ed98d3accc1">
+  <name>Конфигурация</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="eb98bfca-16e0-4dc0-b3c9-8dd15097cf33"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="783976e4-211a-43ab-a38c-14cffb5466fe"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="5ec263cc-eb44-45bc-a5b6-9079b29e2002"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c7328876-bc84-4ac1-9d82-3073e4a1b5b1"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fc808119-e39f-4823-bca0-f0c2cf3e0095"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6a3418a8-7b14-4105-a53e-a38357e1a62c"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="76636361-a97f-467f-90f2-8463cbeb0982"/>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="8fd6e495-bf61-4769-b9de-4b4c9e2d2984">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Справочник</catalogs>
+</mdclass:Configuration>
